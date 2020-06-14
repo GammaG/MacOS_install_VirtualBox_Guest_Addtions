@@ -40,6 +40,8 @@ Should show DTrace Restrictions: disabled if not repeat
 
 *Deactivate Gatekeeper*
 
+In System Terminal
+
     sudo spctl --master-disable
 
 to check
