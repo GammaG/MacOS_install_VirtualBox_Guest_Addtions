@@ -48,6 +48,8 @@ to check
 
 **Add Guest Additions Signature**
 
+This has to be added in the Recovery Terminal in order to add the signature to the system.
+
     Allow VirtualBox
     spctl kext-consent add VB5E2TV963
 
