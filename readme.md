@@ -55,7 +55,6 @@ This has to be added in the Recovery Terminal in order to add the signature to t
 
 To check
 
-    Check
     spctl kext-consent list
 
 **Make the folder writeable in MacOS**
